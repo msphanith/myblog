@@ -220,7 +220,6 @@ h6 {
     height: 100vh;
     background: url("../img/IMG_2866.JPG");
     background-size: cover;
-    background-position-x: 1095px;
 }
 
 #hero:before {
@@ -272,6 +271,9 @@ h6 {
     #hero h1 {
         font-size: 28px;
         line-height: 36px;
+    }
+    #hero {
+        background-position-x: 1095px;
     }
     #hero h2 {
         font-size: 18px;
